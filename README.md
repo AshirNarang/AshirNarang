@@ -4,8 +4,8 @@
 
 **1st Year CS Student · Building toward AI/ML · Jaipur, India**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashir-narang-24158a276)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)]((https://www.kaggle.com/ashirnarang))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashir-narang-24158a276)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashirnarang))
 [![GitHub followers](https://img.shields.io/github/followers/AshirNarang?style=flat&color=green)](https://github.com/AshirNarang)
 
 </div>
@@ -112,8 +112,8 @@ I'm actively looking for an **AI/ML or Data internship** for July 2025.
 
 If you're building something in the data or AI space and need a fast-learning intern who ships real code — let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashir-narang-24158a276)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat&logo=gmail&logoColor=white)](ashirnarang.07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashir-narang-24158a276)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashirnarang.07@gmail.com)
 
 ---
 

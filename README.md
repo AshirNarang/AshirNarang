@@ -2,7 +2,7 @@
 
 # Hey, I'm Ashir Narang 👋
 
-**1st Year CS Student · Building toward AI/ML · Jaipur, India**
+**1st Year ECE Student · Building toward AI/ML · Jaipur, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashir-narang-24158a276)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashirnarang))

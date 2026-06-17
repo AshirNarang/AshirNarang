@@ -14,12 +14,12 @@
 
 ## About Me
 
-I'm an 18-year-old CS student focused on building real things with Python — automations, data pipelines, and now machine learning models. I don't wait until I know everything to build; I learn by shipping.
+I'm an 18-year-old ECE student focused on building real things with Python — automations, data pipelines, and now machine learning models. I don't wait until I know everything to build; I learn by shipping.
 
-- 🎓 1st Year B.Tech CS · Jaipur
+- 🎓 1st Year B.Tech ECE · Jaipur
 - 🔨 Currently: Completing my AI/ML roadmap and targeting my first ML internship
 - 📊 What I build: Tools that scrape, clean, analyze, and model real-world data
-- 🚀 Next goal: Land an AI/ML or data internship in July 2025
+- 🚀 Next goal: Land an AI/ML or data internship in July 2026
 - 💬 Ask me about: Python automation, web scraping, Pandas, or job hunting as a 1st-year student
 
 ---

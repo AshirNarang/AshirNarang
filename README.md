@@ -108,7 +108,7 @@ A structured progression from basic DataFrame operations to real-world EDA, grou
 
 ## 📫 Let's Connect
 
-I'm actively looking for an **AI/ML or Data internship** for July 2025.
+I'm actively looking for an **AI/ML or Data internship** for July 2026.
 
 If you're building something in the data or AI space and need a fast-learning intern who ships real code — let's talk.
 
